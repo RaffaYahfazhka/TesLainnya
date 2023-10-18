@@ -1,0 +1,23 @@
+1. Microservices Architecture :
+
+Teknologi Terbaik: Kubernetes
+
+Alasan: Kubernetes menyediakan solusi orkestrasi kontainer yang kuat, yang sangat sesuai untuk mengelola dan menyebarluaskan mikroservis di skala besar. Ini memungkinkan developer untuk dengan mudah mengelola, memantau, dan meng-automatication kan operasi di seluruh cluster.
+
+
+2. Serverless Architecture :
+
+Teknologi Terbaik: AWS Lambda atau Azure Functions 
+
+Alasan:
+
+AWS Lambda dan Azure Functions menyediakan lingkungan serverless penuh, di mana developer hanya perlu fokus pada logika bisnis mereka tanpa perlu mengelola infrastruktur server. Ini menghilangkan kerumitan dalam mengelola server dan memastikan pengelolaan otomatis dari sisi penyedia cloud.
+
+3. Event-Driven Architecture :
+
+Teknologi Terbaik: Apache Kafka
+
+Alasan:
+
+Kafka dirancang untuk skalabilitas dan ketahanan tinggi, yang membuatnya cocok untuk arsitektur yang sangat terdistribusi dan memproses volume data besar dalam waktu nyata. Sehingga ini membuatnya sangat fleksibel untuk digunakan dalam arsitektur event-driven yang kompleks.
+

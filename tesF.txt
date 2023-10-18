@@ -1,0 +1,13 @@
+Cypress : Cypress adalah alat pengujian frontend untuk aplikasi web untuk QA Automation seperti halnya selenium dan katalon.
+
+Kubernetes : Kubernetes adalah sistem orkestrasi kontainer fungsinya untuk menjalankan dan mengelola aplikasi tingkat produksi dalam skala besar. 
+
+ORM : Object-Relational Mapping (ORM) adalah relasi hubungan antara model data dalam aplikasi dan struktur database.
+
+Class : Class adalah suatu entitas/karakter dari objek yang akan dihasilkan. 
+
+Function : Mengelompokkan kode agar lebih mudah dikelola dan dipahami. selain itu fungsinya dapat memecah program menjadi bagian-bagian kecil yang dapat diproses secara terpisah.
+
+DevOp : Developer & Operation dimana hubungan komunikasi dan kolaborasi antara developer dan tim operations . tujuan utamanya dari DevOps adalah untuk meningkatkan alur kerja dan efisiensi secara menyeluruh.
+
+Docker : Docker adalah kontainer pengemas aplikasi. Kontainer ini dijalankan di cluster, termasuk lingkungan dev, staging, dan production.
